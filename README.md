@@ -1,2 +1,2 @@
 # IBM Data Science
-Files related to course work for IBM Data Science Professional Certificate on Coursera
+Files related to a coursework for IBM Data Science Professional Certificate on Coursera
